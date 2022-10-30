@@ -1,10 +1,10 @@
 ｜Dislikes｜Likes   ｜Views   ｜Dates   ｜Lengths ｜Links                                       ｜Titles                                                                                     
  ____________________________________________________________________________________________________________________________________________________________________________________________
-｜      NA｜     553｜    8616｜20220309｜00:01:06｜https://www.youtube.com/watch?v=5PoOQaT6OPE ｜18. 自己紹介
-｜      NA｜     696｜   10018｜20220310｜01:14:45｜https://www.youtube.com/watch?v=ZLcOxvQso0k ｜［ Debut stream ］はじめての配信 / 海童あのね
-｜      NA｜     202｜    2067｜20220313｜02:31:03｜https://www.youtube.com/watch?v=X4_qaik-L2M ｜［ Minecraft ］はじめてのマイクラ / 海童あのね
+｜      NA｜     553｜    8642｜20220309｜00:01:06｜https://www.youtube.com/watch?v=5PoOQaT6OPE ｜18. 自己紹介
+｜      NA｜     697｜   10032｜20220310｜01:14:45｜https://www.youtube.com/watch?v=ZLcOxvQso0k ｜［ Debut stream ］はじめての配信 / 海童あのね
+｜      NA｜     202｜    2073｜20220313｜02:31:03｜https://www.youtube.com/watch?v=X4_qaik-L2M ｜［ Minecraft ］はじめてのマイクラ / 海童あのね
 ｜      NA｜     119｜    1001｜20220321｜01:57:47｜https://www.youtube.com/watch?v=eQJQmjyjZ1g ｜［ Minecraft ］はじめてのお家づくり / 海童あのね
-｜      NA｜     167｜    1179｜20220323｜01:59:08｜https://www.youtube.com/watch?v=sTFYe1srESY ｜［ Reading a fairy tales ］童話の朗読 / 海童あのね
+｜      NA｜     167｜    1180｜20220323｜01:59:08｜https://www.youtube.com/watch?v=sTFYe1srESY ｜［ Reading a fairy tales ］童話の朗読 / 海童あのね
 ｜      NA｜     120｜     624｜20220325｜01:56:18｜https://www.youtube.com/watch?v=YOEM2jNu3-c ｜［ Minecraft ］穴の修繕とはじめての釣り / 海童あのね
 ｜      NA｜     129｜     780｜20220326｜03:01:30｜https://www.youtube.com/watch?v=zRKDgeya6sc ｜［ Reading a fairy tales ］童話の朗読 / 海童あのね
 ｜      NA｜     128｜     765｜20220329｜02:11:21｜https://www.youtube.com/watch?v=NTVZrBMsb6c ｜［ Reading a fairy tales ］童話の朗読 / 海童あのね
@@ -12,7 +12,7 @@
 ｜      NA｜     129｜     774｜20220405｜02:36:57｜https://www.youtube.com/watch?v=sP_B6n2CfII ｜［ Minecraft ］炭鉱を探検 / 海童あのね
 ｜      NA｜     118｜     584｜20220407｜01:53:59｜https://www.youtube.com/watch?v=emcSFNqtI7A ｜［ Reading a fairy tales ］童話の朗読 / 海童あのね
 ｜      NA｜     118｜     797｜20220408｜02:16:09｜https://www.youtube.com/watch?v=mf7w4Cg6d4U ｜［ Minecraft ］炭鉱で宝箱を見つける / 海童あのね
-｜      NA｜     116｜     748｜20220415｜02:04:13｜https://www.youtube.com/watch?v=GKroOZ_K3EE ｜［ Reading a fairy tales ］童話の朗読 / 海童あのね
+｜      NA｜     116｜     749｜20220415｜02:04:13｜https://www.youtube.com/watch?v=GKroOZ_K3EE ｜［ Reading a fairy tales ］童話の朗読 / 海童あのね
 ｜      NA｜     133｜     726｜20220421｜02:28:14｜https://www.youtube.com/watch?v=YwUqJoB8pOg ｜［ Minecraft ］炭鉱の探索 と 渓谷の探検 / 海童あのね
 ｜      NA｜      94｜     541｜20220422｜01:15:46｜https://www.youtube.com/watch?v=cqEaTZQqwqg ｜［ Reading a fairy tales ］童話の朗読 / 海童あのね
 ｜      NA｜     156｜     831｜20220424｜03:34:47｜https://www.youtube.com/watch?v=r4axHgHr7ow ｜［ Minecraft ］海を探す…！ / 海童あのね
@@ -21,14 +21,14 @@
 ｜      NA｜     116｜     678｜20220429｜01:52:52｜https://www.youtube.com/watch?v=CNtveUEz_j4 ｜［ Reading a fairy tales ］童話の朗読 / 海童あのね
 ｜      NA｜     159｜     953｜20220430｜05:02:19｜https://www.youtube.com/watch?v=ApgcpVbmIFo ｜［ Minecraft ］海にたどり着く…！ / 海童あのね
 ｜      NA｜     227｜    2798｜20220501｜09:06:43｜https://www.youtube.com/watch?v=Rg3bk63ayWQ ｜［ Minecraft ］地下洞窟の探検 / 海童あのね
-｜      NA｜     314｜    4179｜20220504｜08:50:34｜https://www.youtube.com/watch?v=KeoQEtaMBAU ｜［ Minecraft ］ダイヤを探す / 海童あのね
-｜      NA｜     265｜    3062｜20220506｜06:10:28｜https://www.youtube.com/watch?v=ypXYZVGN7-k ｜［ Minecraft ］今日こそお引越し / 海童あのね
+｜      NA｜     314｜    4180｜20220504｜08:50:34｜https://www.youtube.com/watch?v=KeoQEtaMBAU ｜［ Minecraft ］ダイヤを探す / 海童あのね
+｜      NA｜     265｜    3063｜20220506｜06:10:28｜https://www.youtube.com/watch?v=ypXYZVGN7-k ｜［ Minecraft ］今日こそお引越し / 海童あのね
 ｜      NA｜     229｜    2077｜20220508｜06:01:37｜https://www.youtube.com/watch?v=RTnLSuTtWXs ｜［ Minecraft ］島を全部調べる / 海童あのね
 ｜      NA｜     273｜    2644｜20220510｜10:15:49｜https://www.youtube.com/watch?v=XPs-xM0f1CM ｜［ Minecraft ］森を整備する ＋ ツリーハウスを作る / 海童あのね
 ｜      NA｜     254｜    2507｜20220511｜06:14:39｜https://www.youtube.com/watch?v=IoZKjKJjAzE ｜［ Minecraft ］動物のお迎え ＋ 森の整備 / 海童あのね
 ｜      NA｜     268｜    2424｜20220512｜05:19:20｜https://www.youtube.com/watch?v=OoEcdSyQe5A ｜［ Minecraft ］ツタの除去 ＋ 森の整備 / 海童あのね
 ｜      NA｜     232｜    2867｜20220515｜05:15:02｜https://www.youtube.com/watch?v=McItBIwAyo0 ｜［ Minecraft ］湖を埋める / 海童あのね
-｜      NA｜     233｜    2332｜20220517｜04:00:45｜https://www.youtube.com/watch?v=aEAT9cububI ｜［ Minecraft ］ハチの巣を探す / 海童あのね
+｜      NA｜     233｜    2334｜20220517｜04:00:45｜https://www.youtube.com/watch?v=aEAT9cububI ｜［ Minecraft ］ハチの巣を探す / 海童あのね
 ｜      NA｜     161｜    1412｜20220521｜02:15:51｜https://www.youtube.com/watch?v=iqEJjUWVxYA ｜［ Minecraft ］馬をつかまえる / 海童あのね
 ｜      NA｜     202｜    1617｜20220524｜02:54:21｜https://www.youtube.com/watch?v=iwDHXzgRPGs ｜［ Minecraft ］地下倉庫をつくる / 海童あのね
 ｜      NA｜     200｜    1258｜20220526｜04:03:21｜https://www.youtube.com/watch?v=bmuCC8r-x6I ｜［ Minecraft ］ダークオーク探し / 海童あのね
@@ -38,7 +38,7 @@
 ｜      NA｜     210｜    1392｜20220604｜04:03:56｜https://www.youtube.com/watch?v=gdQjxBWjTR8 ｜［ Minecraft ］地下倉庫つくり / 海童あのね
 ｜      NA｜     227｜    1803｜20220612｜04:29:18｜https://www.youtube.com/watch?v=rDvW309dj0w ｜［ Minecraft ］地下トンネルつくり / 海童あのね
 ｜      NA｜     166｜    1124｜20220717｜02:22:00｜https://www.youtube.com/watch?v=wKOeNA0LgF8 ｜［ Minecraft ］ブランチマイニング場つくり / 海童あのね
-｜      NA｜     183｜    1246｜20220721｜02:48:14｜https://www.youtube.com/watch?v=DuAM56YxqaA ｜［ Minecraft ］無限マグマ装置つくり / 海童あのね
-｜      NA｜     182｜    1330｜20220723｜02:59:58｜https://www.youtube.com/watch?v=JT9qzjoPd4Y ｜［ Minecraft ］炭鉱探検 / 海童あのね
-｜      NA｜     167｜    1339｜20220728｜02:59:58｜https://www.youtube.com/watch?v=hVHQAMjxTh4 ｜［ Minecraft ］地下農園つくり / 海童あのね
-｜      NA｜     195｜    2773｜20220731｜03:09:18｜https://www.youtube.com/watch?v=-0W4Gg1wS5Y ｜［ Minecraft ］地下農園つくり / 海童あのね
+｜      NA｜     184｜    1249｜20220721｜02:48:14｜https://www.youtube.com/watch?v=DuAM56YxqaA ｜［ Minecraft ］無限マグマ装置つくり / 海童あのね
+｜      NA｜     182｜    1331｜20220723｜02:59:58｜https://www.youtube.com/watch?v=JT9qzjoPd4Y ｜［ Minecraft ］炭鉱探検 / 海童あのね
+｜      NA｜     167｜    1340｜20220728｜02:59:58｜https://www.youtube.com/watch?v=hVHQAMjxTh4 ｜［ Minecraft ］地下農園つくり / 海童あのね
+｜      NA｜     197｜    2806｜20220731｜03:09:18｜https://www.youtube.com/watch?v=-0W4Gg1wS5Y ｜［ Minecraft ］地下農園つくり / 海童あのね
